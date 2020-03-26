@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martial Dupaigne"
 title_separator          : "-"
 name                     : &name "Martial Dupaigne"
-description              : &description "personal description"
+description              : &description "Economics professor in Montpellier and macroeconomics researcher in Toulouse"
 url                      : https://mdupaigne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mdupaigne.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=fr&user=9ls8LDYAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
