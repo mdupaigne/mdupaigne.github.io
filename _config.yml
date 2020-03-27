@@ -84,11 +84,10 @@ author:
   avatar           : "MDprofile.png"
   bio              : "Economics professor in Montpellier and macroeconomics researcher in Toulouse"
   location         : "Occitanie, France"
-  employer         :
+  employer         : "martial.dupaigne@univ-montp3.fr"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=9ls8LDYAAAAJ"
   email            : "martial.dupaigne@tse-fr.eu"
-  email            : "martial.dupaigne@univ-montp3.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
