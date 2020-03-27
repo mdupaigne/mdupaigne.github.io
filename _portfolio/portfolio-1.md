@@ -4,6 +4,6 @@ excerpt: "<br/><img src='/images/dates_FRA.png'>"
 collection: portfolio
 ---
 
-This graph compiles business cycles episodes since 1960.
+This graph compiles business cycles episodes since 1960 in France.
 The 1968T2 huge drop in output, caused by massives strikes, was followed by an instant recovery. Let's hope the same happens in 2020!
 <br/><img src='/images/dates_FRA.png'>
